@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harkirat Singh
 - 👀 I’m interested in learning about scalable microsoft web technologies
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects involving scalable tech and socket communication.
 - 📫 How to reach me ...
 
