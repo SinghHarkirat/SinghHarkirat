@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harkirat Singh, and I have over 8 years of software engineering experience.
+- 👋 Hi, I’m Harkirat Singh, and I have over 9 years of software engineering experience.
 - 👀 I’m interested in learning about scalable Microsoft Web technologies and cloud.
 - 👯 I’m looking to collaborate on projects involving .NET development and cloud technologies.
 
